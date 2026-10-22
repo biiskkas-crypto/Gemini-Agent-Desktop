@@ -25,7 +25,7 @@ The Gemini Agent Desktop elevates the command-line experience of the official Ge
 
 1. Clone the Repository:
     ```bash
-    git clone https://github.com/ademyoussfi/Gemini-GUI-Agent.git
+    git clone https://github.com/ademyoussfi/Gemini-GUI-Agent.+++git
     cd Gemini-GUI-Agent
     ```
 
